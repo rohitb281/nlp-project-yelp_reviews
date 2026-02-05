@@ -145,7 +145,7 @@ weighted avg       0.66      0.81      0.73      1226
 ### Clone repository
 
 ```bash
-git clone https://github.com/your-username/nlp-project-yelp_reviews.git
+git clone https://github.com/rohitb281/nlp-project-yelp_reviews.git
 cd nlp-project-yelp_reviews
 ```
 
